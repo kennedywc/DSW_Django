@@ -1,4 +1,4 @@
-# Atividade 4 - introdução ao Django
+# Atividade 4 - Introdução ao Django
 
 - Crie um ambiente virtual;
 - Utilizando o ambiente virtual, crie um projeto Django com o nome de sua preferência;
